@@ -17,8 +17,9 @@ That's a good question, and I hope you find the answer to that as you delve into
 
 #### What's my story?
 
-Much of my story will be told amongst my posts here. For background, however, some highlights are below:
+Parts of my story will be told amongst my posts here. For background, however, some highlights are below:
 
 <li> 15 years in the technology industry - including enterprise IT, audio/video, lighting and consumer tech
-<li> 
+<li> I love history
+<li> 2016 is a year or pursuing technical certifications (and writing about it)
 <li> paid off over $40,000 in personal/consumer debt
