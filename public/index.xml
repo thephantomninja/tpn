@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Phantom Ninja</title>
+    <link>https://www.thephantomninja.com/</link>
+    <description>Recent content on The Phantom Ninja</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Dec 2015 20:50:09 -0500</lastBuildDate>
+    <atom:link href="https://www.thephantomninja.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Starting Fresh</title>
+      <link>https://www.thephantomninja.com/blog/2015/12/starting-fresh/</link>
+      <pubDate>Thu, 24 Dec 2015 20:50:09 -0500</pubDate>
+      
+      <guid>https://www.thephantomninja.com/blog/2015/12/starting-fresh/</guid>
+      <description>&lt;p&gt;Certainly an interesting name for a blog. You can read my &lt;a href=&#34;https://www.thephantomninja.com/about/&#34;&gt;#whoami&lt;/a&gt; post for more background on me.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m looking forward to providing useful content here on many topics - primarily technology and personal finance. Those topics will overlap often, as personal finance is much easier when technology is used properly.&lt;/p&gt;
+
+&lt;p&gt;This blog was born out of the need for an outlet for technology and finance-related discussions. I spend most of my time in one of the two areas, and am passionate about both. I listen to several daily/weekly &lt;a href=&#34;https://www.thephantomninja.com/podcasts/&#34;&gt;#podcasts&lt;/a&gt; to further my learning in both areas. That said, I listen to podcasts that are of differing opinions - especially in finance. This helps me find a balanced approach to personal finance that works within my worldview and personal beliefs.&lt;/p&gt;
+
+&lt;p&gt;My first series of posts will be discussing how I built this blog, and the technologies used. I found it wasn&amp;rsquo;t as easy as I wanted to find a static-site generator + hosting + setup tutorial for the entire process. For those wanting an inexpensive setup for a personal blog, you&amp;rsquo;ll want to take a look!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#links</title>
+      <link>https://www.thephantomninja.com/links/</link>
+      <pubDate>Thu, 24 Dec 2015 20:47:41 -0500</pubDate>
+      
+      <guid>https://www.thephantomninja.com/links/</guid>
+      <description>
+
+&lt;h3 id=&#34;links-i-find-useful&#34;&gt;Links I find useful:&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;coming soon&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#whoami</title>
+      <link>https://www.thephantomninja.com/about/</link>
+      <pubDate>Thu, 24 Dec 2015 20:30:12 -0500</pubDate>
+      
+      <guid>https://www.thephantomninja.com/about/</guid>
+      <description>
+
+&lt;p&gt;Hi. The Phantom Ninja blog is dedicated to discussing my passions. Namely, technology and personal finance. I specifically love (useful) mobile applications, security and living debt free.&lt;/p&gt;
+
+&lt;h4 id=&#34;why-would-you-want-my-opinion&#34;&gt;Why would you want my opinion?&lt;/h4&gt;
+
+&lt;p&gt;That&amp;rsquo;s a good question, and I hope you find the answer to that as you delve into the content here.&lt;/p&gt;
+
+&lt;h4 id=&#34;what-s-my-story&#34;&gt;What&amp;rsquo;s my story?&lt;/h4&gt;
+
+&lt;p&gt;Much of my story will be told amongst my posts here. For background, however, some highlights are below:&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt; 15 years in the technology industry - including enterprise IT, audio/video, lighting and consumer tech&lt;br /&gt;
+&lt;li&gt;&lt;br /&gt;
+&lt;li&gt; paid off over $40,000 in personal/consumer debt&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#podcasts</title>
+      <link>https://www.thephantomninja.com/podcasts/</link>
+      <pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.thephantomninja.com/podcasts/</guid>
+      <description>&lt;p&gt;I listen to podcasts quite a bit and have built a good list of topics that provide learning and entertainment. The podcasts are listed in alphabetical order, and the list will grow.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;topic&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;podcast url&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;website&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;finance&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://feeds.feedburner.com/ClarkHowardPodcast&#34;&gt;Clark Howard&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.clarkhoward.com&#34;&gt;website&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;finance&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://itunes.apple.com/podcast/the-dave-ramsey-show/id77001367/&#34;&gt;Dave Ramsey&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.daveramsey.com&#34;&gt;website&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;finance&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://itunes.apple.com/us/podcast/motley-fool-money/id306106212?mt=2&amp;amp;ign-mpt=uo%3D4&#34;&gt;Motley Fool Money&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.fool.com/&#34;&gt;website&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;tech&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://feeds.twit.tv/sn.xml&#34;&gt;Security Now!&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.grc.com/sn&#34;&gt;website&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;tech&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://feeds.twit.tv/twiet.xml&#34;&gt;This Week in Enterprise Tech&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://twit.tv/shows/this-week-in-enterprise-tech&#34;&gt;website&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;history/politics&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://feeds.feedburner.com/dancarlin/commonsense&#34;&gt;Common Sense - Dan Carlin&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.dancarlin.com/common-sense-home-landing-page/&#34;&gt;website&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;history/politics&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://feeds.feedburner.com/dancarlin/history&#34;&gt;Hardcore History - Dan Carlin&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.dancarlin.com/hardcore-history-series/&#34;&gt;website&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;entertainment&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://itunes.apple.com/us/podcast/limetown/id1024247322&#34;&gt;Limetown&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.limetownstories.com&#34;&gt;website&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;entertainment&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://feeds.serialpodcast.org/serialpodcast&#34;&gt;Serial&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://serialpodcast.org/&#34;&gt;website&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

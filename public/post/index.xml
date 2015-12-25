@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Phantom Ninja</title>
+    <link>https://www.thephantomninja.com/post/</link>
+    <description>Recent content in Posts on The Phantom Ninja</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Dec 2015 20:50:09 -0500</lastBuildDate>
+    <atom:link href="https://www.thephantomninja.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Starting Fresh</title>
+      <link>https://www.thephantomninja.com/blog/2015/12/starting-fresh/</link>
+      <pubDate>Thu, 24 Dec 2015 20:50:09 -0500</pubDate>
+      
+      <guid>https://www.thephantomninja.com/blog/2015/12/starting-fresh/</guid>
+      <description>&lt;p&gt;Certainly an interesting name for a blog. You can read my &lt;a href=&#34;https://www.thephantomninja.com/about/&#34;&gt;#whoami&lt;/a&gt; post for more background on me.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m looking forward to providing useful content here on many topics - primarily technology and personal finance. Those topics will overlap often, as personal finance is much easier when technology is used properly.&lt;/p&gt;
+
+&lt;p&gt;This blog was born out of the need for an outlet for technology and finance-related discussions. I spend most of my time in one of the two areas, and am passionate about both. I listen to several daily/weekly &lt;a href=&#34;https://www.thephantomninja.com/podcasts/&#34;&gt;#podcasts&lt;/a&gt; to further my learning in both areas. That said, I listen to podcasts that are of differing opinions - especially in finance. This helps me find a balanced approach to personal finance that works within my worldview and personal beliefs.&lt;/p&gt;
+
+&lt;p&gt;My first series of posts will be discussing how I built this blog, and the technologies used. I found it wasn&amp;rsquo;t as easy as I wanted to find a static-site generator + hosting + setup tutorial for the entire process. For those wanting an inexpensive setup for a personal blog, you&amp;rsquo;ll want to take a look!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
